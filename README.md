@@ -25,7 +25,7 @@ particular, Voicebox outperforms the state-of-the-art zero-shot TTS model VALL-E
 on both intelligibility (5.9% vs 1.9% word error rates) and audio similarity (0.580
 vs 0.681) while being up to 20 times faster.
 
-### **Todo:**
+## **Todo:**
 
 - [ ] add training script for Voicebox.
 - [ ] add cross-lingual style transfer.
@@ -33,7 +33,7 @@ vs 0.681) while being up to 20 times faster.
 - [ ] add transient noise removal and content editing.
 - [ ] add diverse speech sampling and alignment-preserved style shuffling.
 
-### **Citiation:**
+## **Citations:**
 
 ```bibtex
 @misc{voicebox2023,
