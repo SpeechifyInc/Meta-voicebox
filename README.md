@@ -1,9 +1,10 @@
+![image](diagram.png)
 ![image](diagram1.png)
 ![image](diagram2.png)
 
 # **Voicebox - PyTorch**
 
-Implementation of [Voicebox:](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
+Implementation of [**Voicebox**:](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
 
 Large-scale generative models such as GPT and DALL-E have revolutionized
 natural language processing and computer vision research. These models not only
@@ -21,3 +22,11 @@ noise removal, content editing, style conversion, and diverse sample generation.
 particular, Voicebox outperforms the state-of-the-art zero-shot TTS model VALL-E
 on both intelligibility (5.9% vs 1.9% word error rates) and audio similarity (0.580
 vs 0.681) while being up to 20 times faster.
+
+**Todo:**
+
+- [ ] add training script for Voicebox.
+- [ ] add cross-lingual style transfer.
+- [ ] add zero-shot text-to-speech synthesis.
+- [ ] add transient noise removal and content editing.
+- [ ] add diverse speech sampling and alignment-preserved style shuffling.
