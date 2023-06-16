@@ -6,7 +6,7 @@
 
 # **Voicebox - PyTorch**
 
-Implementation of [**Voicebox**:](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
+Implementation of [**Voicebox**:](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) Text-Guided Multilingual Universal Speech Generation at Scale. The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
 
 Large-scale generative models such as GPT and DALL-E have revolutionized
 natural language processing and computer vision research. These models not only
@@ -32,3 +32,14 @@ vs 0.681) while being up to 20 times faster.
 - [ ] add zero-shot text-to-speech synthesis.
 - [ ] add transient noise removal and content editing.
 - [ ] add diverse speech sampling and alignment-preserved style shuffling.
+
+### **Citiation:**
+
+```bibtex
+@misc{voicebox2023,
+      title={Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale},
+      author={Matthew Le, Apoorv Vyas, Bowen Shi, Brian Karrer, Leda Sari, Rashel Moritz, Mary Williamson, Vimal Manohar, Yossi Adi, Jay Mahadeokar, Wei-Ning Hsu},
+      year={2023},
+      link={https://research.facebook.com/file/2441102929387057/VoiceBox_arXiv_6_6.pdf}
+}
+```
