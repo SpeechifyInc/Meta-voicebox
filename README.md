@@ -1,8 +1,8 @@
-![image](diagram.png)
+![image](images/diagram.png)
 
 <!-- ![image](diagram1.png) -->
 
-![image](diagram2.png)
+![image](images/diagram2.png)
 
 # **Voicebox - PyTorch**
 
@@ -41,5 +41,14 @@ vs 0.681) while being up to 20 times faster.
       author={Matthew Le, Apoorv Vyas, Bowen Shi, Brian Karrer, Leda Sari, Rashel Moritz, Mary Williamson, Vimal Manohar, Yossi Adi, Jay Mahadeokar, Wei-Ning Hsu},
       year={2023},
       link={https://research.facebook.com/file/2441102929387057/VoiceBox_arXiv_6_6.pdf}
+}
+```
+
+```bibtex
+@misc{DuEtAl2023UniCATS,
+    author  = {Chenpeng Du, Yiwei Guo, Feiyu Shen, Zhijun Liu, Zheng Liang, Xie Chen, Shuai Wang, Hui Zhang, Kai Yu},
+    title   = {UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding},
+    year    = {2023},
+    eprint  = {arXiv:2306.07547},
 }
 ```
